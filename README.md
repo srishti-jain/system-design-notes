@@ -1,25 +1,9 @@
-# The System Design Primer
+# System Design Notes
 
 <p align="center">
   <img src="images/jj3A5N8.png">
   <br/>
 </p>
-
-## Motivation
-
-> Learn how to design large-scale systems.
->
-> Prep for the system design interview.
-
-### Learn how to design large-scale systems
-
-Learning how to design scalable systems will help you become a better engineer.
-
-System design is a broad topic.  There is a **vast amount of resources scattered throughout the web** on system design principles.
-
-This repo is an **organized collection** of resources to help you learn how to build systems at scale.
-
-**Practice common system design interview questions** and **compare** your results with **sample solutions**: discussions, code, and diagrams.
 
 Additional topics for interview prep:
 
